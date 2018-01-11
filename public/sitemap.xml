@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/noticias/</loc>
+    <loc>http://www.conferenciasbiblicas.com.br/audios/dispensacoes/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/audios/dispensacoes/</loc>
+    <loc>http://www.conferenciasbiblicas.com.br/audios/floripa/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.conferenciasbiblicas.com.br/audios/ipua/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.conferenciasbiblicas.com.br/audios/limeira/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.conferenciasbiblicas.com.br/noticias/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.conferenciasbiblicas.com.br/noticias/ipsum/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/audios/floripa/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/noticias/ipsum/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/audios/ipua/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/audios/limeira/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <loc>http://www.conferenciasbiblicas.com.br/categories/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/audios/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <loc>http://www.conferenciasbiblicas.com.br/audios/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <loc>http://www.conferenciasbiblicas.com.br/categories/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <loc>http://www.conferenciasbiblicas.com.br/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://www.conferenciasbiblicas.com.br/tags/</loc>
     <priority>0</priority>
   </url>
   
