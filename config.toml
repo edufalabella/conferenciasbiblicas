@@ -133,12 +133,12 @@ googleAnalytics = "UA-112360762-1"
     # To add more blogs just copy and paste the code.
 
   # Section Type Two
-#  [params.two]
-#    enable = true
-#    title = "Notícias"
-#    subtitle = "Saiba o que aconteceu nas conferências" 
-#    buttonText = "Confira"
-#    url = "noticias"
+  [params.two]
+    enable = true
+    title = "Quem Somos"
+    subtitle = "O site Conferências Bíblicas não tem fins lucrativos, cujo objetivo é divulgar o evangelho e a sã doutrina de nosso Senhor Jesus Cristo. Este site não está vinculado e nem é mantido por qualquer igreja ou denominação religiosa." 
+    buttonText = "Continue lendo"
+    url = "quemsomos.html"
 
 
  # # Contact section

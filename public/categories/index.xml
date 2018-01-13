@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Conferências Bíblicas</title>
+    <title>Conferências Bíblicas</title>
     <link>http://www.conferenciasbiblicas.com.br/categories/</link>
-    <description>Recent content in Categories on Conferências Bíblicas</description>
+    <description>Recent content on Conferências Bíblicas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
@@ -12,16 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>http://www.conferenciasbiblicas.com.br/categories/</link>
+      <title>Estudos das Dispensações</title>
+      <link>http://www.conferenciasbiblicas.com.br/audios/dispensacoes/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/categories/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>as Dispensações - Reunião 1 - Inocência - Lemão
+      <guid>http://www.conferenciasbiblicas.com.br/audios/dispensacoes/</guid>
+      <description>Ipuã - 2012 Ipuã 2012 - Estudos das Dispensações - Reunião 1 - Inocência - Lemão
 Ipuã 2012 - Estudos das Dispensações - Reunião 2 - Consciência - Lemão
 Ipuã 2012 - Estudos das Dispensações - Reunião 3 - Governo - Lemão
 Ipuã 2012 - Estudos das Dispensações - Reunião 4 - Promessa - Lemão
