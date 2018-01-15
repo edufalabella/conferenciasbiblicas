@@ -206,15 +206,15 @@ draft: false
  
 ### 2017
 
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Aberta-A-carne-P%C3%ACzzinatto.mp3"target="_blank">Floripa-2017 - Aberta-A-carne-Pìzzinatto</a><br>
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Aberta-A-carne-parte-2.mp3"target="_blank">Floripa-2017 - Aberta-A-carne-parte-2</a><br>
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Escolinha-dominical-Pizzinatto.mp3"target="_blank">Floripa-2017 - Escolinha-dominical-Pizzinatto</a><br>
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Estudos-1-Tessalonicenses-4.mp3"target="_blank">Floripa-2017 - Estudos-1-Tessalonicenses-4</a><br>
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Estudos-1-Tessalonicenses-parte-1.mp3"target="_blank">Floripa-2017 - Estudos-1-Tessalonicenses-parte-1</a><br>
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Estudos-1-Tessalonicenses-parte-2.mp3"target="_blank">Floripa-2017 - Estudos-1-Tessalonicenses-parte-2</a><br>
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Pregacao-do-Evangelho-John-Kemp.mp3"target="_blank">Floripa-2017 - Pregacao-do-Evangelho-John-Kemp</a><br>
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Pregacao-do-evangelho-Bernardo_Lenzi.mp3"target="_blank">Floripa-2017 - Pregacao-do-evangelho-Bernardo_Lenzi</a><br>
- <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Pregacao-para-crentes-Lemao.mp3"target="_blank">Floripa-2017 - Pregacao-para-crentes-Lemao</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Aberta-A-carne-P%C3%ACzzinatto.mp3"target="_blank">Floripa 2017 - Aberta A -carne - Pizzinatto</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Aberta-A-carne-parte-2.mp3"target="_blank">Floripa 2017 - Aberta A carne - parte 2</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Escolinha-dominical-Pizzinatto.mp3"target="_blank">Floripa 2017 - Escolinha dominical - Pizzinatto</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Estudos-1-Tessalonicenses-4.mp3"target="_blank">Floripa 2017 - Estudos - 1Tessalonicenses-4</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Estudos-1-Tessalonicenses-parte-1.mp3"target="_blank">Floripa 2017 - Estudos - 1Tessalonicenses - parte 1</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Estudos-1-Tessalonicenses-parte-2.mp3"target="_blank">Floripa 2017 - Estudos - 1Tessalonicenses - parte 2</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Pregacao-do-Evangelho-John-Kemp.mp3"target="_blank">Floripa 2017 - Pregacao do Evangelho - John-Kemp</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Pregacao-do-evangelho-Bernardo_Lenzi.mp3"target="_blank">Floripa 2017 - Pregacao do evangelho - Bernardo Lenzi</a><br>
+ <a href="https://conferenciasbiblicas.s3.amazonaws.com/conferencias/Floripa-2017/Floripa-2017-Pregacao-para-crentes-Lemao.mp3"target="_blank">Floripa 2017 - Pregacao para crentes - Lemao</a><br>
 
 
 
