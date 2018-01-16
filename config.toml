@@ -1,6 +1,6 @@
 # Site settings
 baseURL = "http://www.conferenciasbiblicas.com.br/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Conferências Bíblicas"
 theme = "forty"
 
