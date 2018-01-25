@@ -6,10 +6,20 @@
     <description>Recent content in Audios on Conferências Bíblicas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.conferenciasbiblicas.com.br/audios/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pontos de Destaque</title>
+      <link>http://www.conferenciasbiblicas.com.br/audios/pontosdestaque/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.conferenciasbiblicas.com.br/audios/pontosdestaque/</guid>
+      <description>2012 Ipuã Junho-2012 - Aberta - John Kemp e Lemão
+Ipuã Junho-2012 - Escolinha Dominical - John Kemp</description>
+    </item>
     
     <item>
       <title>Estudos das Dispensações</title>

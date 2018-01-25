@@ -113,6 +113,12 @@ googleAnalytics = "UA-112360762-1"
       url = "/audios/dispensacoes"
 
 #    [[params.tiles.showcase]]
+#      title = "Pontos de Destaque"
+#      subtitle = "Aúdios gravados - Pontos de Destaque"
+#      image = "pic07.jpg"
+#      url = "/audios/pontosdestaque"
+
+#    [[params.tiles.showcase]]
 #      title = "Consequat"
 #      subtitle = "Ipsum Dolor Sit Amet"
 #      image = "pic05.jpg"

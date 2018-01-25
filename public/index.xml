@@ -6,10 +6,20 @@
     <description>Recent content on Conferências Bíblicas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.conferenciasbiblicas.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pontos de Destaque</title>
+      <link>http://www.conferenciasbiblicas.com.br/audios/pontosdestaque/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.conferenciasbiblicas.com.br/audios/pontosdestaque/</guid>
+      <description>2012 Ipuã Junho-2012 - Aberta - John Kemp e Lemão
+Ipuã Junho-2012 - Escolinha Dominical - John Kemp</description>
+    </item>
     
     <item>
       <title>Estudos das Dispensações</title>
@@ -67,15 +77,6 @@ Limeira 1997 - Estudos sobre Romanos 5 a 8
 Limeira 1997 - Estudos sobre Romanos 5 a 8 
 Limeira 1997 - Pregação do evangelho - Lemão 
 Limeira 1997 - Pregação para crentes - Salvação da vida - Bill Warr</description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>http://www.conferenciasbiblicas.com.br/noticias/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://www.conferenciasbiblicas.com.br/noticias/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
   </channel>
