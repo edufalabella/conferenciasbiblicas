@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferências Bíblicas</title>
-    <link>http://www.conferenciasbiblicas.com.br/categories/</link>
+    <link>http://conferenciasbiblicas.com.br/categories/</link>
     <description>Recent content on Conferências Bíblicas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.conferenciasbiblicas.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://conferenciasbiblicas.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pontos de Destaque</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/pontosdestaque/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/pontosdestaque/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/pontosdestaque/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/pontosdestaque/</guid>
       <description>2012 Ipuã Junho-2012 - Aberta - John Kemp e Lemão
 Ipuã Junho-2012 - Escolinha Dominical - John Kemp</description>
     </item>
     
     <item>
       <title>Pontos de Destaque</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/pontosdestaque/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/pontosdestaque/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/pontosdestaque/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/pontosdestaque/</guid>
       <description>2012 Ipuã Junho-2012 - Aberta - John Kemp e Lemão
 Ipuã Junho-2012 - Escolinha Dominical - John Kemp</description>
     </item>
     
     <item>
       <title>Estudos das Dispensações</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/dispensacoes/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/dispensacoes/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/dispensacoes/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/dispensacoes/</guid>
       <description>Ipuã - 2012 Ipuã 2012 - Estudos das Dispensações - Reunião 1 - Inocência - Lemão
 Ipuã 2012 - Estudos das Dispensações - Reunião 2 - Consciência - Lemão
 Ipuã 2012 - Estudos das Dispensações - Reunião 3 - Governo - Lemão
@@ -47,10 +47,10 @@ Ipuã 2012 - Estudos das Dispensações - Reunião 6 - Igreja - Lemão</descript
     
     <item>
       <title>Estudos das Dispensações</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/dispensacoes/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/dispensacoes/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/dispensacoes/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/dispensacoes/</guid>
       <description>Ipuã - 2012 Ipuã 2012 - Estudos das Dispensações - Reunião 1 - Inocência - Lemão
 Ipuã 2012 - Estudos das Dispensações - Reunião 2 - Consciência - Lemão
 Ipuã 2012 - Estudos das Dispensações - Reunião 3 - Governo - Lemão
@@ -61,10 +61,10 @@ Ipuã 2012 - Estudos das Dispensações - Reunião 6 - Igreja - Lemão</descript
     
     <item>
       <title>Florianópolis - SC</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/floripa/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/floripa/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/floripa/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/floripa/</guid>
       <description>2000 Floripa 2000 - 1a. Reunião aberta - Atos 20 - Lemão
 Floripa 2000 - 2a. Reunião aberta - Ron Klassen
 Floripa 2000 - Estudos sobre 1a. Tess. - 1a. parte
@@ -76,10 +76,10 @@ Floripa 2000 - Pregação para jovens - Samuel - Lemão</description>
     
     <item>
       <title>Florianópolis - SC</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/floripa/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/floripa/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/floripa/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/floripa/</guid>
       <description>2000 Floripa 2000 - 1a. Reunião aberta - Atos 20 - Lemão
 Floripa 2000 - 2a. Reunião aberta - Ron Klassen
 Floripa 2000 - Estudos sobre 1a. Tess. - 1a. parte
@@ -91,10 +91,10 @@ Floripa 2000 - Pregação para jovens - Samuel - Lemão</description>
     
     <item>
       <title>Ipuã - SP</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/ipua/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/ipua/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/ipua/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/ipua/</guid>
       <description>2012 Ipuã Junho-2012 - Aberta - John Kemp e Lemão
 Ipuã Junho-2012 - Escolinha Dominical - John Kemp
 Ipuã Junho-2012 - Estudos sobre Filipenses 3 - 1a parte
@@ -106,10 +106,10 @@ Ipuã Junho-2012 - Pregação do Evangelho - Os filhos pródigos - Mario</descri
     
     <item>
       <title>Ipuã - SP</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/ipua/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/ipua/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/ipua/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/ipua/</guid>
       <description>2012 Ipuã Junho-2012 - Aberta - John Kemp e Lemão
 Ipuã Junho-2012 - Escolinha Dominical - John Kemp
 Ipuã Junho-2012 - Estudos sobre Filipenses 3 - 1a parte
@@ -121,10 +121,10 @@ Ipuã Junho-2012 - Pregação do Evangelho - Os filhos pródigos - Mario</descri
     
     <item>
       <title>Limeira - SP</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/limeira/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/limeira/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/limeira/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/limeira/</guid>
       <description>1995 Limeira 1995 - Pregação para crentes - Cristo nossa justiça - Bill Warr 
 1997 Limeira 1997 - Estudos sobre Romanos 5 a 8 
 Limeira 1997 - Estudos sobre Romanos 5 a 8 
@@ -135,10 +135,10 @@ Limeira 1997 - Pregação para crentes - Salvação da vida - Bill Warr</descrip
     
     <item>
       <title>Limeira - SP</title>
-      <link>http://www.conferenciasbiblicas.com.br/audios/limeira/</link>
+      <link>http://conferenciasbiblicas.com.br/audios/limeira/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conferenciasbiblicas.com.br/audios/limeira/</guid>
+      <guid>http://conferenciasbiblicas.com.br/audios/limeira/</guid>
       <description>1995 Limeira 1995 - Pregação para crentes - Cristo nossa justiça - Bill Warr 
 1997 Limeira 1997 - Estudos sobre Romanos 5 a 8 
 Limeira 1997 - Estudos sobre Romanos 5 a 8 
